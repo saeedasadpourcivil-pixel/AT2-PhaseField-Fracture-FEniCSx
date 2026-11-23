@@ -30,6 +30,3 @@ The first command generates `metal_mesh_zero_width.msh`. The second runs the sim
 
 
 
-### Crack propagation
-
-![Phase-field damage during crack growth](results/crack-growth.png)
