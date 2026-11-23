@@ -1,9 +1,10 @@
 """Run the zero-width-crack geometry with the existing AT2 solver.
 
-First: python mesh.py
-Then:  python main_zero_width.py
+First: python mesh_zero_width_crack.py
+Then:  python main.py
 
 Requires parameters.py and fracture_solver.py in the same directory.
+
 """
 from pathlib import Path
 
@@ -779,5 +780,6 @@ def main():
 
 
 if __name__ == "__main__":
+
 
     main()
